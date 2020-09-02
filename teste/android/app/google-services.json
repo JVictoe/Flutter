@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474063627112",
+    "firebase_url": "https://aaaa-d73fa.firebaseio.com",
+    "project_id": "aaaa-d73fa",
+    "storage_bucket": "aaaa-d73fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474063627112:android:dd3bb80929cb3447002cdd",
+        "android_client_info": {
+          "package_name": "victor.com.br.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474063627112-n53k2f4sr2mfjrotn96i8ic6bpv9uin1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_NY8RCBOHgA2e7amQXydiviIxqe8uyu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474063627112-n53k2f4sr2mfjrotn96i8ic6bpv9uin1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

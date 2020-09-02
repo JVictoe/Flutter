@@ -1,0 +1,1 @@
+abrir o cmd na pasta que deseja criar o app e digitar o comando: flutter create --org br.com.victor flare
